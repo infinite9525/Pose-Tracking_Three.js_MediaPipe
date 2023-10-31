@@ -1,0 +1,1 @@
+declare module 'https://cdn.skypack.dev/device-detector-js@2.2.10'
